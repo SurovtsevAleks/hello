@@ -1,2 +1,3 @@
 <?php
-echo 'Privet MIR'
+session_start();
+echo 'Privet MIR';
